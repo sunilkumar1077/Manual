@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-23T17:41:18Z" name="Default suite" finished-at="2021-09-23T17:41:25Z" duration-ms="7635">
+  <suite started-at="2021-09-24T00:21:07 IST" name="Suite" finished-at="2021-09-24T00:21:11 IST" duration-ms="3818">
     <groups>
     </groups>
-    <test started-at="2021-09-23T17:41:18Z" name="Default test" finished-at="2021-09-23T17:41:25Z" duration-ms="7635">
+    <test started-at="2021-09-24T00:21:07 IST" name="Test" finished-at="2021-09-24T00:21:11 IST" duration-ms="3818">
       <class name="com.javacodegeeks.examples.junitmavenexample.LaunchFirefox">
-        <test-method signature="launch()[pri:0, instance:com.javacodegeeks.examples.junitmavenexample.LaunchFirefox@7cbd9d24]" started-at="2021-09-23T23:11:18Z" name="launch" finished-at="2021-09-23T23:11:25Z" duration-ms="7592" status="PASS">
+        <test-method signature="launch()[pri:0, instance:com.javacodegeeks.examples.junitmavenexample.LaunchFirefox@53045c6c]" started-at="2021-09-24T00:21:08 IST" name="launch" finished-at="2021-09-24T00:21:11 IST" duration-ms="3747" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
       </class> <!-- com.javacodegeeks.examples.junitmavenexample.LaunchFirefox -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
